@@ -34,4 +34,4 @@ sqlite3 -header -column shop_devices.db < queries.sql
 
 ---
 
-Maintained by [ggrrrt5543](https://github.com/ggrrrt5543). Инструкции, ограничения и сведения о сторонних компонентах приведены выше.
+Автор и поддержка — [ggrrrt5543](https://github.com/ggrrrt5543). Инструкции, ограничения и сведения о сторонних компонентах приведены выше.
